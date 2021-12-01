@@ -1,1 +1,5 @@
-body{background-color:grey;} p{color:blue;font-family: Arial;} h1{color:pink;font-family: Aharoni;} h3{color:red;font-family: Garamound;}
+body{background-color:grey;} 
+p{color:blue;font-family: Arial;} 
+h1{color:pink;font-family: Aharoni;} 
+h3{color:red;font-family: Garamound;}
+ul{list-style-type: lower-roman; color:blue; font-family:"iskoola Pota";}
